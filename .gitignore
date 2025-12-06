@@ -1,0 +1,16 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual env
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Large / private artifacts
+/fer2013.csv
+/emotion_detection_model*.h5
